@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "DA068945-8924-4B33-AF6F-8526DE0A6513",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 525,
+    "width": 699,
+    "x": -227,
+    "y": -240
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9d44c156021b76d422850478eec242f10b3f1ba6",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "aidan-hancock-455440",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 525,
+            "enabled": 1,
+            "modelID": "constraint_86f9718b-a6b0-4ad2-a90a-b2b95751a54f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 699.4128
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2df1b8bd-8335-4dbd-8dd0-e5cea5edb6c4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

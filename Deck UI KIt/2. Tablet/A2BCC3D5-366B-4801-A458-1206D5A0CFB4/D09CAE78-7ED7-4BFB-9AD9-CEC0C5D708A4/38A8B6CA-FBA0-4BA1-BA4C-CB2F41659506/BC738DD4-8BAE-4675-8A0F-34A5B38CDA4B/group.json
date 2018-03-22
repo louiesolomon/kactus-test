@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "BC738DD4-8BAE-4675-8A0F-34A5B38CDA4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 449,
+    "x": 39,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "976A76A7-1C7D-42AE-90FE-041F3D3E9E79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "523D7A8F-61BC-4AE4-9A62-ECDBF07E9CDB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0A9FC66-3492-488D-9161-E1641A631AAF"
+    }
+  ],
+  "name": "Progress Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

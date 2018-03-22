@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9A0ADAE1-2AB5-446C-B99C-9ADBAF19C4F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 247,
+    "width": 321,
+    "x": -1,
+    "y": -18
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/9e8d333aab7a6225c519fa31c728c81182cc1894",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "annie-spratt-213059",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 246.7551,
+            "enabled": 1,
+            "modelID": "constraint_a3cc42a9-a97b-4573-a494-de9f2d8f8951",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 321
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5fb28432-6d3e-491e-8d34-4d7157691efe",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

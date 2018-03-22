@@ -1,0 +1,116 @@
+{
+  "_class": "group",
+  "do_objectID": "515397ED-6613-40CB-920E-05CCFFF5494D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 551,
+    "width": 335,
+    "x": 20,
+    "y": 645
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0CA1B575-50C2-4C91-88B6-BB5471BB8853"
+    },
+    {
+      "class": "group",
+      "id": "95004EC4-4ABE-4DA5-AAD9-29C99CEEEE7E"
+    },
+    {
+      "class": "group",
+      "id": "3B010736-F50A-456D-AB1F-6E6A4623262B"
+    },
+    {
+      "class": "text",
+      "id": "F152D4F0-1B14-4047-A130-83EEE26ED08C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1413163D-E9DC-41CD-BC2C-1F2286D33D51"
+    },
+    {
+      "class": "text",
+      "id": "46923572-49A1-410A-9C6F-A41781094D0D"
+    },
+    {
+      "class": "text",
+      "id": "6C8B7D40-D88C-4AEE-AE43-B964BD0969DB"
+    }
+  ],
+  "name": "Card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 15,
+        "color": {
+          "_class": "color",
+          "alpha": 0.05,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 5,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "7892C1D2-CBEB-4A80-9E77-307102373323",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

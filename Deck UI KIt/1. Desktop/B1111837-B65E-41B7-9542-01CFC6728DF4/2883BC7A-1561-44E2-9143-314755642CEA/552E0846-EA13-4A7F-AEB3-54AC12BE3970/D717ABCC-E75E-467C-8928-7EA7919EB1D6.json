@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D717ABCC-E75E-467C-8928-7EA7919EB1D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 604,
+    "width": 443,
+    "x": 0,
+    "y": -150
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5ee1b47a842e98b234b88194430088a7b8bcb0e0",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "jeff-sheldon-264920",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 604,
+            "enabled": 1,
+            "modelID": "constraint_076dc55d-42ad-44b9-9029-576ed81ad7e5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 442.8399
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_2172e6e7-f8b9-4f1d-8cdd-22ba67fb9bc9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "261FBE8D-3C44-4507-A2D6-13442D25890B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 158,
+    "width": 250,
+    "x": 0,
+    "y": -38
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/2ac9f89bdd45589cd05caf71c042e18d26638c15",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "anas-alshanti-169265-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 157.75,
+            "enabled": 1,
+            "modelID": "constraint_5c9053b0-64a3-47db-921c-ab2425d62181",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 250
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0cfb444f-03a3-49fd-aff8-80a8403d01db",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

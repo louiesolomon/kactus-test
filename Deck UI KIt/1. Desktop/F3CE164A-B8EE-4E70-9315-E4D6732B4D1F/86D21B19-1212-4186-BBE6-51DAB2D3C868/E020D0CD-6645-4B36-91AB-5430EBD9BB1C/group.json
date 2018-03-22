@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "E020D0CD-6645-4B36-91AB-5430EBD9BB1C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 890,
+    "width": 230,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8042755B-472A-4896-8E0F-3D4F7D9DA012"
+    },
+    {
+      "class": "group",
+      "id": "7F566D01-5081-412F-B963-ED7DCE8176FC"
+    },
+    {
+      "class": "group",
+      "id": "3E4A8B53-D75D-4EE2-B82C-DC677759DBD7"
+    },
+    {
+      "class": "group",
+      "id": "02938C27-9514-42BD-B942-6CF9132FBCFD"
+    },
+    {
+      "class": "group",
+      "id": "45E5C9CC-535D-4128-A05F-158B68DE6C83"
+    },
+    {
+      "class": "group",
+      "id": "3C4C05A7-91FC-453C-B88F-18FA851C6EB6"
+    }
+  ],
+  "name": "Thumbs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGtbZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMwcIERIYJygpKissLS4yOjs8PT5FSVRXWl5qa2xtbm9wcXOBgoOEh4+QkZKXo6SlpqmtsVUkbnVsbNQJCgsMDQ4PEFhOU1N0cmluZ18QD05TQXR0cmlidXRlSW5mb1xOU0F0dHJpYnV0ZXNWJGNsYXNzgAKAMIADgDJfEBhXZWVrbHkgCkZlYXR1cmVkIFN0b3JpZXPSEwwUF1pOUy5vYmplY3RzohUWgASAIYAv0xkTDBogJldOUy5rZXlzpRscHR4fgAWABoAHgAiACaUhIiMkJYAKgAuADIAUgBiAIF8QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGUQASMAAAAAAAAAANIMLzAxXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xkTDDM2OaI0NYAOgA+iNziAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAUQAAAAAAAF1Pc3dhbGQtTWVkaXVt0j9AQUJaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjQUNEXE5TRGljdGlvbmFyeVhOU09iamVjdNI/QEZHXxAQTlNGb250RGVzY3JpcHRvcqJIRF8QEE5TRm9udERlc2NyaXB0b3LWSktMTQxOT1BRUFNRWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAFSNAU4AAAAAAAIAVgBfSEwxVVqCAFtI/QFhZV05TQXJyYXmiWETSP0BbXF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1tdRF8QEE5TUGFyYWdyYXBoU3R5bGXTGRMMX2QmpGBhYmOAGYAagBuAHKRlZWdogB2AHYAegB+AIFNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAACM/1xcXFxcXFCM/1ZWVlZWVltI/QENyokNE0xkTDHR6JqV1HHceeYAigAaAI4AIgCSlISJ9fn+ACoALgCWAKoArgCBfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZdIMLzCGgBOAJtMZEwyIizmiiYqAJ4AoojeNgBCAKYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGVdT3N3YWxkLU1lZGl1bdZKS0xNDE5PUFFQU1GAAIAVgBWAF9MZEwyYnSakYGFiY4AZgBqAG4AcpJ5loKGALIAdgC2ALoAgIz+9HR0dHR0bIz/CEhISEhISIz+/Hx8fHx8g0j9Ap6heTlNNdXRhYmxlQXJyYXmjp1hE0qoMq6xXTlMuZGF0YUQGABIBgDHSP0Cur11OU011dGFibGVEYXRho66wRFZOU0RhdGHSP0Cys18QEk5TQXR0cmlidXRlZFN0cmluZ6K0RF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctG3uFRyb290gAEACAARABoAIwAtADIANwBtAHMAfACFAJcApACrAK0ArwCxALMAzgDTAN4A4QDjAOUA5wDuAPYA/AD+AQABAgEEAQYBDAEOARABEgEUARYBGAFDAUoBbAF/AawBrgG3AbwB2QHbAd0B5AHnAekB6wHuAfAB8gH0AgoCIAIpAjcCPAJHAlACZgJqAncCgAKFApgCmwKuArsCxgLSAuQC8QMDAwUDBwMQAxIDFAMZAxoDHAMhAykDLAMxA0sDTwNiA2kDbgNwA3IDdAN2A3sDfQN/A4EDgwOFA4kDjwOUA5oDowOsA7UDugO9A8QDygPMA84D0APSA9QD2gPcA94D4APiA+QD5gQRBDMEYARlBGcEaQRwBHMEdQR3BHoEfAR+BIAElgSsBLoExwTJBMsEzQTPBNYE2wTdBN8E4QTjBOgE6gTsBO4E8ATyBPsFBAUNBRIFIQUlBSoFMgU3BTkFPgVMBVAFVwVcBXEFdAWJBZsFngWjAAAAAAAAAgEAAAAAAAAAuQAAAAAAAAAAAAAAAAAABaU="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "2E0ABB2D-8FF3-470B-8CB5-A62A8D69299A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 156,
+    "width": 503,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{2, 14}, {499, 135}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Weekly Featured Stor",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorDictionaryAttribute": {
+          "alpha": 1,
+          "blue": 0.36078431372549,
+          "green": 0.3372549019607843,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAUQAAAAAAAF1Pc3dhbGQtTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+        },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 0,
+        "paragraphStyle": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBEQExFaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0gACAAiNAU4AAAAAAAIACgATSFQ0WF1pOUy5vYmplY3RzoIAD0hkaGxxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohsdWE5TT2JqZWN00hkaHyBfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMfIR1fEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SQlVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBQAFsAZwB5AIYAjQCfAKEAowCsAK4AsAC1AMAAwQDDAMgA0wDcAOQA5wDwAPUBDwETASYBOAE7AUAAAAAAAAACAQAAAAAAAAAmAAAAAAAAAAAAAAAAAAABQg=="
+        }
+      },
+      "verticalAlignment": 0
+    }
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    },
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "technology",
+          "type": "title"
+        },
+        "title": "Technology"
+      }
+    }
+  }
+}

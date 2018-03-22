@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "90077A92-48F8-4F0B-8FDB-DD4B0FC29E25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1108,
+    "width": 375,
+    "x": 0,
+    "y": 1789
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "46467C81-ACE9-473C-BEE6-710D242B9877"
+    },
+    {
+      "class": "group",
+      "id": "1B7BDC63-D0D4-482A-A351-9DD455817647"
+    },
+    {
+      "class": "group",
+      "id": "7D6F86AC-24A8-46D7-9A79-00F5EB0D560E"
+    },
+    {
+      "class": "group",
+      "id": "9132D333-699D-49CC-8702-4BA5699689E8"
+    },
+    {
+      "class": "group",
+      "id": "8695608A-FC78-4BFE-92B6-DD1B76D60FF7"
+    },
+    {
+      "class": "text",
+      "id": "16636FD5-F8E1-4709-8CF6-2B3B4A6EED78"
+    }
+  ],
+  "name": "Comments",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

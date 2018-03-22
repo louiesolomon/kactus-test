@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "E627CAF9-0B8D-49BC-B021-E58B070809C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 546,
+    "width": 436,
+    "x": 0,
+    "y": 103
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FEC266D5-88EF-45FF-A723-8EF5004D3805"
+    },
+    {
+      "class": "group",
+      "id": "7A506AE3-9BF7-4A4F-BA6B-3711A056F7C2"
+    },
+    {
+      "class": "group",
+      "id": "C766F9A2-A394-4F3C-8816-B9AB92FE824F"
+    }
+  ],
+  "name": "Car",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

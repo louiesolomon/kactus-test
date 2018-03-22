@@ -1,0 +1,129 @@
+{
+  "_class": "page",
+  "do_objectID": "06CC8D7E-E751-4414-85B4-2C0EC942D377",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "E9475756-0858-473D-85F6-C4D3F626C3D9"
+    },
+    {
+      "class": "artboard",
+      "id": "172BDE33-8D44-4B47-B5B2-6B9850525642"
+    },
+    {
+      "class": "artboard",
+      "id": "3B514957-9553-4529-B175-E3D6731B7604"
+    },
+    {
+      "class": "artboard",
+      "id": "A4781FCD-DA63-4DDC-8200-473A3B13BDDE"
+    },
+    {
+      "class": "artboard",
+      "id": "81F5A162-1D8C-47DE-B714-08937DD9C576"
+    },
+    {
+      "class": "artboard",
+      "id": "3150C0E0-AE75-4DC1-89F6-8429AFB3D1A8"
+    },
+    {
+      "class": "artboard",
+      "id": "F3CE164A-B8EE-4E70-9315-E4D6732B4D1F"
+    },
+    {
+      "class": "artboard",
+      "id": "83BC6454-E4CA-4675-9C7D-01C474D2D4ED"
+    },
+    {
+      "class": "artboard",
+      "id": "BA114BBF-F0B6-4FCD-906F-704D23F0A1A6"
+    },
+    {
+      "class": "artboard",
+      "id": "E294927E-43DA-477D-8FC8-07159DB1B808"
+    },
+    {
+      "class": "artboard",
+      "id": "FAFF99DC-A13F-4E1C-A6F9-6A573C87894C"
+    },
+    {
+      "class": "artboard",
+      "id": "F524ED71-9D06-4E33-A239-5BFF99250F42"
+    },
+    {
+      "class": "artboard",
+      "id": "DD4C7333-1255-4337-A88B-075C888DAA50"
+    },
+    {
+      "class": "artboard",
+      "id": "141767EB-9933-4013-BE1B-0DA037D1F213"
+    },
+    {
+      "class": "artboard",
+      "id": "B1111837-B65E-41B7-9542-01CFC6728DF4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 76.66666666666667,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": false,
+    "horizontalOffset": 150,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
+  "name": "1. Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

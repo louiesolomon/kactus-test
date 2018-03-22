@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "C190A7FA-794D-4DBE-AA71-4C35DBF48B54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 53,
+    "width": 53,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B6C67235-48B1-41C6-92C5-F92B6276053A"
+    },
+    {
+      "class": "bitmap",
+      "id": "30D75AB0-630E-4825-B9C2-19046E670EC7"
+    }
+  ],
+  "name": "Userpic",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.99999928474426,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 53,
+            "enabled": 1,
+            "modelID": "constraint_cdc7e54b-c530-4173-8707-ce559a2a13ca",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 53
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_81ac02aa-7b7f-41cf-a998-474412c6e33a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

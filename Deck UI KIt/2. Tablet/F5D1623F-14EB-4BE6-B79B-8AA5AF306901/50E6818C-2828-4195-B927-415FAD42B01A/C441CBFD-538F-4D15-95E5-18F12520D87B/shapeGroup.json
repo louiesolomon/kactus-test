@@ -1,0 +1,116 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "C441CBFD-538F-4D15-95E5-18F12520D87B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24.29380773364827,
+    "width": 23.99388418138102,
+    "x": 0.4578513226983318,
+    "y": 83.03843856652202
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AB14F7C1-C1C4-4103-B9AC-7B296FEB99C3"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE7649B5-8E26-4BEC-8C32-2F0812525A75"
+    },
+    {
+      "class": "shapePath",
+      "id": "13556853-ED59-4FD2-8545-D25B2B7DE219"
+    },
+    {
+      "class": "shapePath",
+      "id": "357E57CE-3234-4901-9B65-33CE16768746"
+    },
+    {
+      "class": "shapePath",
+      "id": "0A8788F9-BBA8-489E-8F8B-F3DDCDD2A759"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5C185EF-BE47-4970-9262-CAC26656CC6B"
+    },
+    {
+      "class": "shapePath",
+      "id": "46F0793D-CA70-45BB-8012-376577362486"
+    }
+  ],
+  "name": "Dribbble Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.1
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1411764705882353,
+          "green": 0.1215686274509804,
+          "red": 0.1137254901960784
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24.29381,
+            "enabled": 1,
+            "modelID": "constraint_c6ee89a2-6046-493b-a8d0-0f692117ba99",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 23.99389
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_a9c94a04-ba0e-4fc0-9fb3-9e66c3f05af9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "B861CD47-E5E3-49D0-907E-4ABBD0D6F8BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 607,
+    "width": 356,
+    "x": 20,
+    "y": 1022
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CFEB492C-30C8-4A54-95ED-CBF1648DF995"
+    },
+    {
+      "class": "text",
+      "id": "7864AE14-22D9-4611-9A21-83B12DB16120"
+    },
+    {
+      "class": "text",
+      "id": "2834B92A-BC31-4563-80B6-08B047CFC188"
+    }
+  ],
+  "name": "Card Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

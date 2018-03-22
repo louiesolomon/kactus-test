@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "A5A281C5-D4CD-4B09-BA75-B803FC4A0F58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 157,
+    "width": 232,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8C2AD09B-6D21-44B1-AD7A-AF94D619B4D1"
+    },
+    {
+      "class": "text",
+      "id": "35EA4747-E5EC-43E4-9C38-5C157246BEFB"
+    },
+    {
+      "class": "text",
+      "id": "0B0B752E-5A61-4F11-B166-1C3323CBC4D3"
+    },
+    {
+      "class": "text",
+      "id": "C02AF080-AD68-491E-8864-5314549907CF"
+    }
+  ],
+  "name": "Thumb",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

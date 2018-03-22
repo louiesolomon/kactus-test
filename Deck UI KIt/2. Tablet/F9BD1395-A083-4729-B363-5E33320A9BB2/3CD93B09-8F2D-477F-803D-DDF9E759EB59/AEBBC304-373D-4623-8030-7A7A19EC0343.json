@@ -1,0 +1,74 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "AEBBC304-373D-4623-8030-7A7A19EC0343",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 237.3557332891526,
+    "width": 356,
+    "x": 0,
+    "y": 791
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3e484f5339a98320bb9aa4572bb94d32b09b3d18",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "crew-22235",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.20000004768372,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 237.3557,
+            "enabled": 1,
+            "modelID": "constraint_44e8f033-57b1-48f1-8f96-645ab014f404",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 356
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_811abcbb-10a7-4c0c-a8e0-cbedaeb0b531",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "F4D6C545-0F56-4EA1-BCE3-7E91E01A124B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 206,
+    "width": 309,
+    "x": -29,
+    "y": -41
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5a1bdf8650b81908c09faddad7c1ca9192aef29e",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "jeremy-yap-160713-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 203,
+            "enabled": 1,
+            "modelID": "constraint_ce3a26e0-d759-43ba-ab14-6c5450c9f69b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 304.5
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4dca5bac-cb8a-4ecb-9660-8ee83cd1ce6b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

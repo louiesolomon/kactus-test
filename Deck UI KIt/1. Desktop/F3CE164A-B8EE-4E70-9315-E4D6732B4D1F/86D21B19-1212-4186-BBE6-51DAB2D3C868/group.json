@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "86D21B19-1212-4186-BBE6-51DAB2D3C868",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 891,
+    "width": 230,
+    "x": 1084,
+    "y": 209
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E020D0CD-6645-4B36-91AB-5430EBD9BB1C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "334817C4-FFC7-4117-BDA4-84DA05E73D3A"
+    },
+    {
+      "class": "group",
+      "id": "A1089CA1-AC51-44BD-9FB0-28DF77420E0A"
+    }
+  ],
+  "name": "New Video",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

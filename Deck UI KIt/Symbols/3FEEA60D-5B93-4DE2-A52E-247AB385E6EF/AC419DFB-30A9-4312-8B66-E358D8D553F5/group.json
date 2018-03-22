@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "AC419DFB-30A9-4312-8B66-E358D8D553F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 441,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8502CF98-77F9-4C93-A9F2-FD9067D8620E"
+    },
+    {
+      "class": "group",
+      "id": "7F8E3937-A71C-4EAC-81D0-9F71CE424D42"
+    },
+    {
+      "class": "text",
+      "id": "BBBFF630-A34A-4BFB-9111-87EFFDB6A97C"
+    },
+    {
+      "class": "group",
+      "id": "B07077EE-3ABB-4756-8380-102CFCBEDFAE"
+    },
+    {
+      "class": "group",
+      "id": "E2DD6CAA-729B-4009-8D57-75816A184201"
+    },
+    {
+      "class": "group",
+      "id": "068DEADF-3013-4022-B2C6-89F9839019E0"
+    }
+  ],
+  "name": "Component / Footer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

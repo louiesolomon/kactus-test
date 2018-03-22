@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D6C30E86-0DC6-4AD6-9CCD-A2648D9CE027",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 174,
+    "width": 260,
+    "x": 0,
+    "y": -44
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d66a5f3588791fc059588ac7cf679117bae4b979",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "shane-rounce-229914-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 174.1343,
+            "enabled": 1,
+            "modelID": "constraint_fbc310ae-4640-46e9-a84e-02d3012fd401",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 260
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_50703b01-4e49-449a-8870-af5fe5880b5e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}
